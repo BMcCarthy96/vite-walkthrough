@@ -9,15 +9,21 @@ Currently, two official plugins are available:
 
 # How to clone
 
+```sh
 npx tiged <BMcCarthy96>/my-react-vite-template#main <new-project-name>
+```
 
 # Install all dependencies
 
+```sh
 npm install
+```
 
 # Run server/development
 
+```sh
 npm run dev
+```
 
 # Converting this template fully into your new project
 
